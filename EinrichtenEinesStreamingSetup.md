@@ -34,7 +34,7 @@ Spielt ihr nur Solo ist der Setup im Prinzip komplett. Ansonsten solltet ihr noc
 Leider ist das gar nicht so einfach zu bewerkstelligen. Im Prinzip müsstet ihr an euer Headset einen Splitter anschließen um Audio und Mikrofon Kanal zu trennen, da euer Mikrofon Kanal nicht an der Elgato ankommen soll (ihr habt ja ein dediziertes Micro und außerdem funktioniert das nicht, weil die Elgato nicht darauf ausgelegt ist). Den Audiokanal führt ihr dann in ein "Stereo Y-Kabel" um sozusagen "aus zwei eins zu machen". Einen Teil führt ihr dann per Klinke zur Elgato. Es empfiehlt sich einen [Entstörrfilter][8] zwischenzuschließen. Den anderen Teil führt ihr gemeinsam mit dem Mikrofon-Kanal in ein CTIA Y-Kabel um beide wieder zusammen zu führen. Das Y-Ende kommt dann in den Controller.
 Zum Glück lässt sich dieser komplizierte Setup durch das [Elgato Chatlink Kabel][7] vereinfachen. Die Grafik hebt dies noch mal hervor.
 Die Klinkekabel, welche auch Mikrofon-Kanäle transportierten, müssen 4-polig sein.
-Ich verwende noch ein [Verlängerungskabel][9] zur Elgato, da meine Couch relativ weit weg om Fernseher steht.
+Ich verwende noch ein [Verlängerungskabel][9] zur Elgato, da meine Couch relativ weit weg vom Fernseher steht.
 
 
 

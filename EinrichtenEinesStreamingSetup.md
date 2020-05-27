@@ -1,5 +1,5 @@
-# Einrichten eines Streaming Setups
-Dieses Tutorial beschreibt wie ihr einen spitzen Streaming Setup einrichtet um Konsolen Gameplay über einen PC auf Mixer zu streamen.
+# Einrichten eines ersten Streaming Setups
+Dieses Tutorial beschreibt wie ihr einen spitzen Streaming Setup einrichtet um Konsolen Couch-Gameplay über einen PC auf Mixer zu streamen.
 Der Setup enthält im wesentlichen:
 - Capture Device zum Erfassen des Gameplays von der Xbox
 - Dediziertes Mikrofon
